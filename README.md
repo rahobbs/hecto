@@ -1,0 +1,1 @@
+This project is based on the [Hecto tutorial](https://www.philippflenker.com/hecto/) by Philipp Flenker and is licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/).
